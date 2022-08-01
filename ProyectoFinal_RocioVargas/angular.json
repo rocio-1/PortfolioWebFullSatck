@@ -23,9 +23,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "PortfolioWebFullSatck/ProyectoFinal_RocioVargas/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": ["PortfolioWebFullSatck/ProyectoFinal_RocioVargas/node_modules/bootstrap/dist/js/bootstrap.js"]
           },
           "configurations": {
             "production": {
