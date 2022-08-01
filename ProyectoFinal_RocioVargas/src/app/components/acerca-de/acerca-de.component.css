@@ -1,0 +1,25 @@
+.row{
+    padding: 20px;
+}
+
+div{
+    background-color: rosybrown;
+    text-align: center;
+}
+
+/*Creo etiqueta de nombre*/
+#nombre{
+    font-weight: bold;
+    margin-top: 28%;
+}
+
+/*Cambio el estilo de la foto de perfil*/
+    @media (min-width:576px){
+    #foto{
+        position:absolute;
+        width:20%;
+        border-radius:100%;
+        box-shadow: 3px 3px 3px white;
+       top: 500px;
+       left: 150px;
+    }}
