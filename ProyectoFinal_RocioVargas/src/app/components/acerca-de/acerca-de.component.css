@@ -24,4 +24,14 @@ div{
        left: 12px;
     }}
 
+    @media (max-width:575px){
+        #foto{
+            position:absolute;
+            width:30%;
+            border-radius:100%;
+            box-shadow: 3px 3px 3px white;
+           top: 700px;
+           left: 33%;
+        }}
+
     
